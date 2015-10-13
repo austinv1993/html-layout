@@ -1,0 +1,52 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.first-row {
+	height: 10%;
+	width: 100%;
+	background-color: lightgrey;
+	float: left;
+}
+.second-row {
+	height: 30%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	text-align: center;
+}
+.third-row {
+	height: 15%;
+	width: 100%;
+	background-color: blue;
+	float: left;
+}
+.fourth-row {
+	height: 15%;
+	width: 100%;
+	background-color: teal;
+	float: left;
+}
+.fifth-row {
+	height: 15%;
+	width: 100%;
+	background-color: lightyellow;
+	float: left;
+}
+.sixth-row {
+	height: 15%;
+	width: 100%;
+	background-color: yellow;
+	position: absolute;
+	bottom: 0;
+	
+}
+.small-box {
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	margin-top: 6px;
+	margin-left: 75px;
+}
